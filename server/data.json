@@ -1,0 +1,44 @@
+[
+    {
+        "disease":"Alcohol addiction",
+        "description":"A chronic disease characterised by uncontrolled drinking and preoccupation with alcohol.Alcoholism is the inability to control drinking due to both a physical and emotional dependence on alcohol",
+        "symptoms":"blackout, dizziness, shakiness, craving, sweating,aggression, agitation, compulsive behaviour, self-destructive behaviour, or lack of restraint",
+        "medicines":["ACAMPROL","DISULFIRAM","TYFUSIN","DIZONE"]
+    },
+    {
+        "disease":"Alzheimer",
+        "description":"A progressive disease that destroys memory and other important mental functions.Brain cell connections and the cells themselves degenerate and die, eventually destroying memory and other important mental functions.",
+        "symptoms":" mental decline, difficulty thinking and understanding, confusion in the evening hours, delusion, disorientation, forgetfulness, making things up, mental confusion, difficulty concentrating, inability to create new memories, inability to do simple maths, or inability to recognise common things",
+        "medicines":["ALMERZIL","CITITOP 1000 CR","ENCETAM CT","STORAX PLUS","Geocetam CT Forte"]
+    },
+    {
+        "disease":"Anxiety ",
+        "description":"Intense, excessive and persistent worry and fear about everyday situations. Fast heart rate, rapid breathing, sweating and feeling tired may occur.",
+        "symptoms":"Anxiety can be normal in stressful situations such as public speaking or taking a test. Anxiety is only an indicator of underlying disease when feelings become excessive, all-consuming and interfere with daily living.",
+        "medicines":["ATARAX","DULARO 30","NEXTRIL","TOFICALM"]
+    },
+    {
+        "disease":"Asthma",
+        "description":"A condition in which a person's airways become inflamed, narrow and swell and produce extra mucus, which makes it difficult to breathe.Asthma can be minor or it can interfere with daily activities. In some cases, it may lead to a life-threatening attack.",
+        "symptoms":"Cough can occur at night, during exercise, can be chronic, dry, with phlegm, mild, or severe difficulty breathing, wheezing, breathing through the mouth, fast breathing, frequent respiratory infections, rapid breathing, or shortness of breath at night",
+        "medicines":["A PHYL","AB FLO N","BUDOJET","FORMOFLO 250","FORMONIDE 400 RESPICAP","COMBIHALE FF 100 REDICAP"]
+    },
+    {
+        "disease":"Allergies",
+        "description":"A condition in which the immune system reacts abnormally to a foreign substance.",
+        "symptoms":"Symptoms may vary person to person and also depend on type of allergy",
+        "medicines":["1 AL","CARYZINE MD 10","MONTEMAC BL","ALLEGRA"]
+    },
+    {
+        "disease":"Bacterial Infections",
+        "description":"A bacterial infection occurs when bacteria enter the body, increase in number, and cause a reaction in the body. Bacteria can enter the body through an opening in your skin, such as a cut or a surgical wound, or through your airway and cause infections like bacterial pneumonia.",
+        "symptoms":"difficulty breathing,a persistent cough, or coughing up pus,unexplained redness or swelling of the skin,a persistent fever,frequent vomiting and trouble holding liquids down,blood in urine, vomit or poo (stool)",
+        "medicines":["2CV","AZUMIN","CETIL CV","ENZOBACT","FINECEF 200 DT"]
+    },
+    {
+        "disease":"Burns",
+        "description":"A burn is an injury to the skin or other organic tissue primarily caused by heat or due to radiation, radioactivity, electricity, friction or contact with chemicals. Thermal (heat) burns occur when some or all of the cells in the skin or other tissues are destroyed by: hot liquids (scalds)",
+        "symptoms":"difficulty breathing,a persistent cough, or coughing up pus,unexplained redness or swelling of the skin,a persistent fever,frequent vomiting and trouble holding liquids down,blood in urine, vomit or poo (stool)",
+        "medicines":["BIOCOLLAZ AG","BURNOSAF PLUS","SILVEREX IONIC"]
+    }
+]
