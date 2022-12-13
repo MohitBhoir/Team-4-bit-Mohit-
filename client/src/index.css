@@ -84,10 +84,79 @@ li {
 }
 
 /* main-page */
-
-main {
-  height: 700px;
+/* Hero Section Styling */
+.Hero-Section
+{
+  height: 515px;
 }
+.hero-sec-container
+{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-items: center;
+  align-items: center;
+}
+
+.left-sec
+{
+  padding-left: 2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex-shrink: 2px;
+}
+
+.DocImgSEC
+{
+  /* Rectangle 6 */
+  box-sizing: border-box;
+  width: 546px;
+  height: 530px;
+  background: rgba(106, 204, 211, 0.15);
+  border: 10px solid #1CB5BD;
+  border-radius: 235px;
+}
+.DocImg{
+  translate: 1vw .5vw; 
+  box-sizing: border-box;
+  width: 500px;
+  border-radius: 235px;
+  height: 490px;
+}
+
+.Quote{
+  /* Your Health Comes First. */
+  width: 28vw;
+  height: 142px;
+  font-family: "Quicksand", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  color: #1cb5bd;
+}
+/* Wave image Pattern */
+.wave-img
+{
+  width: 28vw;
+}
+
+.Hero-section-text
+{
+  /* With Medicare services you will receive the best medical treatment in your home. Our team of skilled medical professionals and aids ensure that you get the care you need and deserve. */
+  padding-top: 5px;
+  width: 29vw;
+  height: 140px;
+  font-family: "Quicksand", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  /* line-height: 145%; */
+  color: #787878;
+  text-align: center;
+
+}
+
 article {
   display: flex;
   flex-direction: column;
@@ -133,6 +202,63 @@ section {
   background-size: cover;
   background: url("/public/img/medicine.jpg");
 }
+
+/* Medicine Uses */
+.MedicineUses{
+  font-family: 'Roboto Condensed', sans-serif;
+  background: #1cb5bd;
+  color: white;
+ 
+}
+.medicine-content
+{
+  display: flex;
+  gap: 30vw;
+  align-items: center;
+}
+.heading-1
+{
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 3rem;
+  text-transform: capitalize;
+}
+.steps
+{
+  font-size: 1.5vw;
+  display: inline-block;
+  width: 27vw;
+  padding-left: 6vw;
+  line-height: 7vh;
+  letter-spacing: .05rem;
+  
+}
+/* Oval */
+.oval {
+  
+  margin-top: 40px;
+  border: 5px solid linear-gradient(142.77deg, #C8E6C9 15.84%, #B3E5FC 85.86%);
+  border-radius: 160px;
+  width: 300px;
+  height: 300px;
+  background: linear-gradient(142.77deg, #C8E6C9 15.84%, #B3E5FC 85.86%);
+  mix-blend-mode:lighten;
+  opacity: 0.25;
+
+}
+.oval:hover{
+  margin-top: 40px;
+  border: 10px solid whitesmoke;
+  border-radius: 160px;
+  width: 300px;
+  height: 300px;
+  background: linear-gradient(142.77deg, #C8E6C9 15.84%, #B3E5FC 85.86%);
+  mix-blend-mode: lighten;
+  opacity: 0.25;
+  transition: all .5s;
+}
+
 
 /* carousel */
 .carousel {
@@ -456,5 +582,31 @@ h3{
   }
   .container{
     width:80vw;
+  }
+}
+@media (max-width:765px)
+{
+  .steps
+  {
+    display: none;
+  }
+  .oval{
+    margin-top: 25px;
+    margin-left: 25vw; 
+}
+  .oval:hover
+  {
+    margin-top: 25px;
+  }
+ 
+  
+}
+@media (max-width:1270px)
+{
+   .left-sec
+  {
+    display: none;
+    gap: 20px;
+    flex-wrap: wrap;
   }
 }
