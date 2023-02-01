@@ -4,6 +4,7 @@ import Navbar from './navbar'
 import Home from './home'
 import Login from './login'
 import Detect from './detect'
+import Upload from './upload'
 
 const App = () => {
   return <>
@@ -21,6 +22,9 @@ const App = () => {
         </Route>
         <Route path="/detect">
           <Detect />
+        </Route>
+        <Route path="/upload">
+          <Upload />
         </Route>
       </Switch>
     </Router>
