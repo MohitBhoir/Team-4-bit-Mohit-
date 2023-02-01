@@ -22,7 +22,7 @@ dict1 = {'crocin':'https://www.netmeds.com/prescriptions/crocin-advance-tablet-2
          'gemsoline': 'https://www.netmeds.com/prescriptions/gemsoline-capsule-15-s',
          'migranil': 'https://www.netmeds.com/prescriptions/migranil-ec-1mg-tablet-10-s',
          'moxatris': 'https://www.netmeds.com/prescriptions/moxatris-500-capsule-10s'}
-info = {}
+
 
 def preprocess(img):
     ocr_img_keras = [
@@ -80,7 +80,7 @@ def upload():
             predict = prediction(image1)
             add_in_list(predict)
             med_name = match()
-            info['medicine_name'] = med_name           
+            form.medicine_name.data = med_name           
                                 ### WEB SCRAPING ###
             if med_name in dict1:
                 url = dict1[med_name]
@@ -103,18 +103,17 @@ def upload():
 
             #print(uses)
             #print('USES:\n{0}'.format(uses))
-            info['uses'] = uses
+            form.uses.data = uses
             
             alternate = ''
             y = s.find_all('div', class_='info')
             for i in range(3):
                 alternate = alternate + y[i].text + '\n'
             #print('ALTERNATE MEDICINES:\n{0}'.format(alternate))
-            info['alternatives'] = alternate
+            form.alternatives.data = alternate
     
         # else:
         #     flash('Upload the appropraite file')
-            return jsonify(info)
         return render_template('upload.html',form = form)
 
 ####################################
