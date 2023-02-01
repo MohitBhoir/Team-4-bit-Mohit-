@@ -25,7 +25,7 @@ app.use("/api/v1/history", auth, historyRouter)
 app.use(notFound)
 app.use(errohandlerMiddleware)
 
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 8000
 
 
 const start = async () => {
