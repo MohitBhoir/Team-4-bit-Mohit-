@@ -6,4 +6,7 @@ from flask_wtf.file import FileField, FileAllowed  #for image field
 
 class MedicineImageForm(FlaskForm):
     med_image = FileField('Upload the medicine box or medicine packet image', validators=[DataRequired(), FileAllowed(['jpg', 'png', 'jpeg'])])
+    medicine_name = StringField()
+    uses = StringField()
+    alternatives = StringField()
     submit = SubmitField('Submit')
