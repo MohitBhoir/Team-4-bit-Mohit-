@@ -1,0 +1,22 @@
+<div class="content-section">
+    
+      <form method="POST" action="" enctype="multipart/form-data">
+          {{ form.hidden_tag() }}
+          <fieldset class="form-group">
+              <legend class="border-bottom mb-4">Upload the image of the medicine package</legend>
+              <img src = "/ml_integration_flask/templates/allegra.jpg"> 
+              <div class="form-group">
+                  {{ form.med_image.label() }}
+                  {{ form.med_image(class="form-control-file") }}
+                  {% if form.med_image.errors %}
+                      {% for error in form.picture.errors %}
+                          <span class="text-danger">{{ error }}</span></br>
+                      {% endfor %}
+                  {% endif %}
+              </div>
+          </fieldset>
+          <div class="form-group">
+              {{ form.submit(class="btn btn-outline-info") }}
+          </div>
+      </form>
+  </div>
