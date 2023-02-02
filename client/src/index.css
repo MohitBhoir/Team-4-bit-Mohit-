@@ -7,7 +7,6 @@
 element {
   --back-color: #1cb5bd;
 }
-
 *::after,
 *::before,
 * {
@@ -59,6 +58,13 @@ element {
 }
 li {
   list-style: none;
+}
+.headingSection{
+    display:flex;
+    margin:2rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .links {
   text-decoration: none;
@@ -321,6 +327,7 @@ button {
   background-size: cover;
   margin: 0;
   display: flex;
+  flex-direction:column;
   justify-content: center;
   align-items: center;
   overflow: hidden;
@@ -337,6 +344,7 @@ button {
   gap: 1rem;
   color:#057e85;
   font-size:1.5rem;
+  cursor: pointer;
 }
 .foot-p {
   text-align: center;

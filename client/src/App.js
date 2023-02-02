@@ -4,6 +4,7 @@ import Navbar from './navbar'
 import Home from './home'
 import Login from './login'
 import Detect from './detect'
+import FindDoctor from './temp'
 
 const App = () => {
   return <>
@@ -21,6 +22,9 @@ const App = () => {
         </Route>
         <Route path="/detect">
           <Detect />
+        </Route>
+        <Route path="/temp">
+          <FindDoctor />
         </Route>
       </Switch>
     </Router>

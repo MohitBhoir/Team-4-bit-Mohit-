@@ -32,6 +32,12 @@ const Navbar = () => {
                             <span className="effect"></span>
                         </Link>
                     </li>
+                    <li>
+                        <Link to="/temp" className="links">
+                            Find doctor
+                            <span className="effect"></span>
+                        </Link>
+                    </li>
                 </ul>
             </div>
             {user ? <h3>{user.name}</h3> : <FaUserCircle className="log-in" />}

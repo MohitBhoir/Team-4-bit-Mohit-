@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+/* font-family: 'Roboto Condensed', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+/* font-family: 'Poppins', sans-serif; */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@550&display=swap");
+/* font-family: 'Quicksand', sans-serif; */
+
+
+
+.finddoc_heading,.finddoc_subHeading
+{
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+
+/* .finddoc{
+    display:flex;
+    flex-direction: col;
+    justify-content: center;
+    align-items: center;
+} */
+
+.map_container
+{
+    height: 42vw;
+    padding: 1vw;
+    margin-top: 30px; 
+}
+
+.leaflet-container{
+    border: 1px solid black;
+    height: 37vw;
+    width: 96vw;
+    border-radius: 10px;
+    box-shadow: 5px 5px 17px 0.4px rgb(0 0 0 / 20%);
+    
+}

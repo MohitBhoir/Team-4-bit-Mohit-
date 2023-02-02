@@ -21,7 +21,7 @@ const SignUp = () => {
             })
             const data = await res.json()
             console.log(data)
-            window.alert("login successfull")
+            window.alert("registered successfully")
             history.push("/login")
         } catch (error) {
             console.log(error)
