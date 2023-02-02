@@ -1,10 +1,10 @@
-# <div align="center" > _**HealthCare**_ </div>
-## <div align="center" >Team Name:- team-4-bit-mohit-bhoir</div>
+# <h1 align="center"> _**HealthCare**_ </h1>
+## <h4 align="center">Team Name:- team-4-bit-mohit-bhoir</h4>
 ---
  _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
 
 -----
-## 📝Description
+## 📝**Description**
 
 #### Working:
 * In website any user can access the search feature to get the detail info about the disease.
@@ -17,14 +17,14 @@
 * To give more information about medicine by just uploading the image of medicine box/packet on the website.
 ---
 
-## 🔗Links
+## 🔗**Links**
 * [Github Repository](https://github.com/MohitBhoir/Team-4-bit-Mohit-)
 * [Demo video](https://drive.google.com/drive/folders/1_oXrsRajBLv1qm4ZciGMM46mK8saACcn?usp=share_link)
 * [ScreenShots](https://drive.google.com/drive/folders/1-3Ru175fKTVU2-QZlXfCIdcQwx556JYH?usp=share_link)
 
 ---
 
-## 🤖Tech-Stacks
+## 🤖**Tech-Stacks**
 ### Frontend
 * Html
 * Css
@@ -43,7 +43,7 @@
 * Flask
 ---
 
-## 📈Progress
+## 📈**Progress**
 Fully Implemented Features:- 
 - [x] Search option to get details of disease
 - [x] Ml model to get details of medicine by uploading image
@@ -53,7 +53,7 @@ Partially Implemented Features:-
 - [ ] Integration of ml model into website
 - [ ] Loing and logout functionallity
 
-## Future Scope
+## 🔮Future Scope
  
 - Keeping track of users history through frequent searches to provid better health solution
 - One click appointment booking with doctors
@@ -93,11 +93,21 @@ After this run the ##medicine_name_extraction.py file using following command:
 `python medicine_name_extraction.py`
 
 Click on the local host link which will redirect you to the deployed model website
+## 👨‍🏫Mentors
+- [Anany Bangera](): Email:- 
+- [Ketaki Deshmukh](): Email:-
 
-## 👨‍💻Team Members
+## 👥Team Members
 
 - [Mohit Bhoir](https://github.com/MohitBhoir): Email:- mohitbhoir93@gmail.com
 - [Mihir Rathod](https://github.com/m-g-rathod): Email:- mihirgrathod23@gmail.com 
 - [Jenil shah](https://github.com/JB-Shah): Email:- jenils2003@gmail.com
 - [Preet Jain](https://github.com/Preet12052003): Email:- jainpreet12052003@gmail.com
+
+## 📱Screenshots
+![Healthcare Homepage](https://user-images.githubusercontent.com/118094491/216330210-32c098b7-d9c8-4add-8e74-77351bb7ebed.jpg)
+![Healthcare Loginpage](https://user-images.githubusercontent.com/118094491/216330326-20c901c9-29bb-406d-9161-6f11ba293d17.jpg)
+![Healthcare FindMedicinePage](https://user-images.githubusercontent.com/118094491/216330368-537f4188-38b3-4265-812d-5c015b66f2ce.jpg)
+![Healthcare MapPage](https://user-images.githubusercontent.com/118094491/216330395-050d006c-d47f-40f5-9095-c357fe4080f7.jpg)
+
 
