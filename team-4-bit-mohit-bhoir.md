@@ -1,12 +1,20 @@
-# <div>![Medical Instagram Post](https://user-images.githubusercontent.com/118094491/216338720-18ae8ea9-cfc1-4118-8fca-935c94cc9383.png)</div>
 
-## <h1 align="center"> HealthCare </h1>
-<p align="center">HealthCare Solutions For Better Life</p>`
-<p align="center">Team Name:- team-4-bit-mohit-bhoir</p>
+
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/118094491/216338720-18ae8ea9-cfc1-4118-8fca-935c94cc9383.png" width = "350" height = "200">
+  
+  <br>
+  <i>HealthCare</i>
+</h1>
+
+<div align="center">
+   <strong>HealthCare</strong> - Healthcare Solutions for better Life<br>
+  CoC Inheritance 2022 || team-4-bit-mohit-bhoir <br> <br>
+</div>
 
 ##  _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
 
------
+
 ## 📝**Description**
 
 #### Working:
@@ -18,14 +26,11 @@
 * To suggest the specific medicines based on the input of disease from the user.
 * To help users to track the nearby hospitals, clinics in case of an emergency.
 * To give more information about medicine by just uploading the image of medicine box/packet on the website.
----
 
 ## 🔗**Links**
 * [Github Repository](https://github.com/MohitBhoir/Team-4-bit-Mohit-)
 * [Demo video](https://drive.google.com/drive/folders/1_oXrsRajBLv1qm4ZciGMM46mK8saACcn?usp=share_link)
 * [ScreenShots](https://drive.google.com/drive/folders/1-3Ru175fKTVU2-QZlXfCIdcQwx556JYH?usp=share_link)
-
----
 
 ## 🤖**Tech-Stacks**
 ### Frontend
@@ -44,7 +49,6 @@
 ### Ml Model
 * Python
 * Flask
----
 
 ## 📈**Progress**
 Fully Implemented Features:- 
@@ -57,12 +61,16 @@ Partially Implemented Features:-
 - [ ] Loing and logout functionallity
 
 ## 🔮Future Scope
- 
 - Keeping track of users history through frequent searches to provid better health solution
 - One click appointment booking with doctors
 - One to one consultation with doctors
 
- ## 🛠Project Setup
+## 💸Applications
+* Through our website the users can get primary and quick solutions to their problems before going to our doctor.
+* Through our Find Doctor feature the users can easily locate nearby hospitals even in remote areas. This can be quite beneficial in emergency conditions.
+* Digitizing the appointment booking can reduce the crowding at hospitals and provide hassle free and easy bookings.
+
+## 🛠 Project Setup
 
 #### Clone repo 
 `git clone https://github.com/MohitBhoir/Team-4-bit-Mohit-.git`
@@ -92,10 +100,11 @@ Install the required modules:-
 4. `pip install keras_ocr`
 5. `pip install wtforms-validators`
 
-After this run the ##medicine_name_extraction.py file using following command:
+After this run the **medicine_name_extraction.py** file using following command:
 `python medicine_name_extraction.py`
 
 Click on the local host link which will redirect you to the deployed model website
+
 ## 👨‍🏫Mentors
 - [Anany Bangera](): Email:- agbangera_b20@ce.vjti.ac.in
 - [Ketaki Deshmukh](): Email:- kmdeshmukh_b20@ce.vjti.ac.in
@@ -108,9 +117,22 @@ Click on the local host link which will redirect you to the deployed model websi
 - [Preet Jain](https://github.com/Preet12052003): Email:- jainpreet12052003@gmail.com
 
 ## 📱Screenshots
-![Healthcare Homepage](https://user-images.githubusercontent.com/118094491/216330210-32c098b7-d9c8-4add-8e74-77351bb7ebed.jpg)
-![Healthcare Loginpage](https://user-images.githubusercontent.com/118094491/216330326-20c901c9-29bb-406d-9161-6f11ba293d17.jpg)
-![Healthcare FindMedicinePage](https://user-images.githubusercontent.com/118094491/216330368-537f4188-38b3-4265-812d-5c015b66f2ce.jpg)
-![Healthcare MapPage](https://user-images.githubusercontent.com/118094491/216330395-050d006c-d47f-40f5-9095-c357fe4080f7.jpg)
+#### Home Page:
+<img src="https://user-images.githubusercontent.com/118094491/216330210-32c098b7-d9c8-4add-8e74-77351bb7ebed.jpg" width = "500" height = "300" >
+<br>
+<br>
 
+#### Login/Signup Page:
+<img src="https://user-images.githubusercontent.com/118094491/216330326-20c901c9-29bb-406d-9161-6f11ba293d17.jpg" width = "500" height = "300" >
+<br>
+<br>
 
+#### Medicine Page:
+<img src="https://user-images.githubusercontent.com/118094491/216330368-537f4188-38b3-4265-812d-5c015b66f2ce.jpg" width = "500" height = "300" >
+<br>
+<br>
+
+#### Find Doctor Page:
+<img src="https://user-images.githubusercontent.com/118094491/216330395-050d006c-d47f-40f5-9095-c357fe4080f7.jpg" width = "500" height = "300" >
+<br>
+<br>
