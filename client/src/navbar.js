@@ -6,9 +6,9 @@ const Navbar = () => {
     const [isTrue, setIsTrue] = useState(false)
     const user=null
     return <>
-        <nav>
+            <nav className="navbar">
             <div className="logo">
-                <h1>logo</h1>
+                <h1 className="logo-head">BayMax</h1>
             </div>
             <button className="nav-btn" onClick={() => setIsTrue(!isTrue)}><FaBars/></button>
             <div id="nav-links" className={isTrue ? "show" : "hide"}>
@@ -29,12 +29,6 @@ const Navbar = () => {
                     <li>
                         <Link to="/login" className="links">
                             Login
-                            <span className="effect"></span>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link to="/upload" className="links">
-                            Upload image
                             <span className="effect"></span>
                         </Link>
                     </li>

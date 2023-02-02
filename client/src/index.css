@@ -18,14 +18,25 @@ element {
 
 /* navbar-styling */
 
-nav {
+.navbar {
   box-shadow: 2px 2px 12px 0.4px rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: space-between;
+  align-items:center;
+}
+.upload{
+  color:white;
+  text-decoration: none;
 }
 .logo {
   height: 100px;
-  width: 100px;
+  width:100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-head{
+  font-size: xx-large;
 }
 #nav-links {
   display: flex;
@@ -238,27 +249,19 @@ section {
 .oval {
   
   margin-top: 40px;
-  border: 5px solid linear-gradient(142.77deg, #C8E6C9 15.84%, #B3E5FC 85.86%);
   border-radius: 160px;
   width: 300px;
   height: 300px;
   background: linear-gradient(142.77deg, #C8E6C9 15.84%, #B3E5FC 85.86%);
-  mix-blend-mode:lighten;
-  opacity: 0.25;
 
 }
-.oval:hover{
-  margin-top: 40px;
-  border: 10px solid whitesmoke;
+
+.oval-img{
   border-radius: 160px;
   width: 300px;
   height: 300px;
-  background: linear-gradient(142.77deg, #C8E6C9 15.84%, #B3E5FC 85.86%);
-  mix-blend-mode: lighten;
-  opacity: 0.25;
-  transition: all .5s;
+  object-fit: cover;
 }
-
 
 /* carousel */
 .carousel {
@@ -417,8 +420,11 @@ h1 {
   font-family: "Quicksand", sans-serif;
   color: white;
   border-radius: 4px;
+  transition: all 0.2s;
 }
-
+.input-submit:hover{
+    transform: scale(1.1);
+}
 /* form */
 
 .sign-form{
@@ -503,6 +509,12 @@ h3{
   margin:1rem;
 }
 
+.oval-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 @media (min-width: 1800px) {
   * {
     font-size: 1.2rem;

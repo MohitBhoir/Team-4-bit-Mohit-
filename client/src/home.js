@@ -12,9 +12,8 @@ const Home = () => {
     </section> */}
         <MedicineUses/>
         <div className="center">
-            <h1>Reviews</h1>
         </div>
-        <Review />
+        {/* <Review /> */}
         <Footer />
     </>
 }

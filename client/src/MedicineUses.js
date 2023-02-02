@@ -26,7 +26,14 @@ const MedicineUses=()=>
                 </ul>
             </div>
                 <div >
-                    <div className="oval"></div> 
+                    <div className="oval oval-box" >
+                    <img src={require("./med.jpg")} alt=""  className="oval-img"/>
+                    <div>
+        <button className="input-submit">
+        <a href = "http://127.0.0.1:5000/upload" className="upload">upload</a>
+        </button>
+    </div>
+                    </div> 
                     {/* <span className="upload-section">
                         <h3>Uplaod Image</h3>
                         <buttton className="upload-btn">FDSVFB</buttton>
