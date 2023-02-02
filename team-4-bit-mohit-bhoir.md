@@ -1,7 +1,10 @@
-# <h1 align="center"> _**HealthCare**_ </h1>
-## <h4 align="center">Team Name:- team-4-bit-mohit-bhoir</h4>
----
- _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
+# <div>![Medical Instagram Post](https://user-images.githubusercontent.com/118094491/216338720-18ae8ea9-cfc1-4118-8fca-935c94cc9383.png)</div>
+
+## <h1 align="center"> HealthCare </h1>
+<p align="center">HealthCare Solutions For Better Life</p>`
+<p align="center">Team Name:- team-4-bit-mohit-bhoir</p>
+
+##  _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
 
 -----
 ## 📝**Description**
@@ -94,8 +97,8 @@ After this run the ##medicine_name_extraction.py file using following command:
 
 Click on the local host link which will redirect you to the deployed model website
 ## 👨‍🏫Mentors
-- [Anany Bangera](): Email:- 
-- [Ketaki Deshmukh](): Email:-
+- [Anany Bangera](): Email:- agbangera_b20@ce.vjti.ac.in
+- [Ketaki Deshmukh](): Email:- kmdeshmukh_b20@ce.vjti.ac.in
 
 ## 👥Team Members
 
