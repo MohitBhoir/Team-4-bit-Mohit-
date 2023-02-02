@@ -1,5 +1,5 @@
-# <center> _**HealthCare**_ </center>
-## <center>Team Name:- team-4-bit-mohit-bhoir</center>
+# <div align="center" > _**HealthCare**_ </div>
+## <div align="center" >Team Name:- team-4-bit-mohit-bhoir</div>
 ---
  _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
 
