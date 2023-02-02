@@ -13,6 +13,21 @@
 
 ##  _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
 
+<details>
+<summary>Table of Contents</summary>
+
+- [Description](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#description)
+- [Links](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#links)
+- [Tech Stack](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#tech-stacks)
+- [Progress](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#progress)
+- [Future Scope](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#future-scope)
+- [Applications](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#applications)
+- [Project Setup](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#-project-setup)
+- [Mentors](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#mentors)
+- [Team Members](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#team-members)
+- [Screenshots](https://github.com/MohitBhoir/Team-4-bit-Mohit-/blob/main/team-4-bit-mohit-bhoir.md#screenshots)
+
+</details>
 
 ## 📝**Description**
 
@@ -117,16 +132,16 @@ Click on the local host link which will redirect you to the deployed model websi
 
 ## 📱Screenshots
 #### Home Page:
-<img src="https://user-images.githubusercontent.com/118094491/216330210-32c098b7-d9c8-4add-8e74-77351bb7ebed.jpg" width = "500" height = "300" >
+<img src="https://user-images.githubusercontent.com/118094491/216330210-32c098b7-d9c8-4add-8e74-77351bb7ebed.jpg" width = "600" height = "400" >
 <br>
 
 #### Login/Signup Page:
-<img src="https://user-images.githubusercontent.com/118094491/216330326-20c901c9-29bb-406d-9161-6f11ba293d17.jpg" width = "500" height = "300" >
+<img src="https://user-images.githubusercontent.com/118094491/216330326-20c901c9-29bb-406d-9161-6f11ba293d17.jpg" width = "600" height = "400" >
 <br>
 
 #### Medicine Page:
-<img src="https://user-images.githubusercontent.com/118094491/216330368-537f4188-38b3-4265-812d-5c015b66f2ce.jpg" width = "500" height = "300" >
+<img src="https://user-images.githubusercontent.com/118094491/216330368-537f4188-38b3-4265-812d-5c015b66f2ce.jpg" width = "600" height = "400" >
 <br>
 
 #### Find Doctor Page:
-<img src="https://user-images.githubusercontent.com/118094491/216330395-050d006c-d47f-40f5-9095-c357fe4080f7.jpg" width = "500" height = "300" >
+<img src="https://user-images.githubusercontent.com/118094491/216330395-050d006c-d47f-40f5-9095-c357fe4080f7.jpg" width = "600" height = "400" >
