@@ -4,7 +4,7 @@
  _**HealthCare**_ is a medical website which will help users to easily track their diseases, find nearby clinics, hospitals, get more information about the medicines by just uploading the medicine image.
 
 -----
-##📝**Description**
+## 📝Description
 
 #### Working:
 * In website any user can access the search feature to get the detail info about the disease.
@@ -17,14 +17,14 @@
 * To give more information about medicine by just uploading the image of medicine box/packet on the website.
 ---
 
-##🔗**Links**
+## 🔗Links
 * [Github Repository](https://github.com/MohitBhoir/Team-4-bit-Mohit-)
 * [Demo video](https://drive.google.com/drive/folders/1_oXrsRajBLv1qm4ZciGMM46mK8saACcn?usp=share_link)
 * [ScreenShots](https://drive.google.com/drive/folders/1-3Ru175fKTVU2-QZlXfCIdcQwx556JYH?usp=share_link)
 
 ---
 
-##🤖**Tech-Stacks**
+## 🤖Tech-Stacks
 ### Frontend
 * Html
 * Css
@@ -43,7 +43,7 @@
 * Flask
 ---
 
-##📈**Progress**
+## 📈Progress
 Fully Implemented Features:- 
 - [x] Search option to get details of disease
 - [x] Ml model to get details of medicine by uploading image
@@ -94,7 +94,7 @@ After this run the ##medicine_name_extraction.py file using following command:
 
 Click on the local host link which will redirect you to the deployed model website
 
-##👨‍💻Team Members
+## 👨‍💻Team Members
 
 - [Mohit Bhoir](https://github.com/MohitBhoir): Email:- mohitbhoir93@gmail.com
 - [Mihir Rathod](https://github.com/m-g-rathod): Email:- mihirgrathod23@gmail.com 
