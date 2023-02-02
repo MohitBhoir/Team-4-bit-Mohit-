@@ -19,7 +19,8 @@
 
 ## **Links**
 * [Github Repository](https://github.com/MohitBhoir/Team-4-bit-Mohit-)
-* [Demo video]
+* [Demo video](https://drive.google.com/drive/folders/1_oXrsRajBLv1qm4ZciGMM46mK8saACcn?usp=share_link)
+* [ScreenShots](https://drive.google.com/drive/folders/1-3Ru175fKTVU2-QZlXfCIdcQwx556JYH?usp=share_link)
 
 ---
 
@@ -93,7 +94,7 @@ After this run the ##medicine_name_extraction.py file using following command:
 
 Click on the local host link which will redirect you to the deployed model website
 
-## Team Members
+## 👥Team Members
 
 - [Mohit Bhoir](https://github.com/MohitBhoir): Email:- mohitbhoir93@gmail.com
 - [Mihir Rathod](https://github.com/m-g-rathod): Email:- mihirgrathod23@gmail.com 
