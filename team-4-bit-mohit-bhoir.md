@@ -1,7 +1,6 @@
 
-
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/118094491/216338720-18ae8ea9-cfc1-4118-8fca-935c94cc9383.png" width = "350" height = "200">
+    <img src="https://user-images.githubusercontent.com/118094491/216338720-18ae8ea9-cfc1-4118-8fca-935c94cc9383.png" width = "350" height = "300">
   
   <br>
   <i>HealthCare</i>
@@ -120,19 +119,14 @@ Click on the local host link which will redirect you to the deployed model websi
 #### Home Page:
 <img src="https://user-images.githubusercontent.com/118094491/216330210-32c098b7-d9c8-4add-8e74-77351bb7ebed.jpg" width = "500" height = "300" >
 <br>
-<br>
 
 #### Login/Signup Page:
 <img src="https://user-images.githubusercontent.com/118094491/216330326-20c901c9-29bb-406d-9161-6f11ba293d17.jpg" width = "500" height = "300" >
-<br>
 <br>
 
 #### Medicine Page:
 <img src="https://user-images.githubusercontent.com/118094491/216330368-537f4188-38b3-4265-812d-5c015b66f2ce.jpg" width = "500" height = "300" >
 <br>
-<br>
 
 #### Find Doctor Page:
 <img src="https://user-images.githubusercontent.com/118094491/216330395-050d006c-d47f-40f5-9095-c357fe4080f7.jpg" width = "500" height = "300" >
-<br>
-<br>
